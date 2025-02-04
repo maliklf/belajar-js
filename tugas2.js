@@ -10,7 +10,7 @@ untung = false;
 
 var data = "laki-laki"
 data = null
- belajar
+
 var ketua = ["mamat","asep","nanang"]
 
 console.log(minus);
